@@ -45,7 +45,7 @@
     "docco-husky": "./bin/generate"
   },
   "scripts": {
-    "install": "scripts/install.sh"
+    "install": "node scripts/install.sh"
   },
   "devDependencies": {},
   "optionalDependencies": {}
